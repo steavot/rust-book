@@ -1,0 +1,6 @@
+[package]
+name = "test_fn_return"
+version = "0.1.0"
+authors = ["steavot <tomsteavenson@gmail.com>"]
+
+[dependencies]
